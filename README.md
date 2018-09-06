@@ -1,26 +1,17 @@
-     ,-----.,--.                  ,--. ,---.   ,--.,------.  ,------.
-    '  .--./|  | ,---. ,--.,--. ,-|  || o   \  |  ||  .-.  \ |  .---'
-    |  |    |  || .-. ||  ||  |' .-. |`..'  |  |  ||  |  \  :|  `--, 
-    '  '--'\|  |' '-' ''  ''  '\ `-' | .'  /   |  ||  '--'  /|  `---.
-     `-----'`--' `---'  `----'  `---'  `--'    `--'`-------' `------'
-    ----------------------------------------------------------------- 
+# YelpCamp
+YealpCamp Web APP
+- a full-stack Node.js web application in which users can create/edit their campgrounds and view/post
+comments on campgrounds in HTML, CSS and JavaScript with MongoDB and Mongoose
 
-
-Hi there! Welcome to Cloud9 IDE!
-
-To get you started, we included a small hello world application.
-
-1) Open the hello-world.html file
-
-2) Click on the Preview button to open a live preview pane
-
-3) Make some changes to the file, save, watch the preview, and have fun!
-
-Happy coding!
-The Cloud9 IDE team
-
-
-## Support & Documentation
-
-Visit http://docs.c9.io for documentation, or http://support.c9.io for support.
-To watch some training videos, visit http://www.youtube.com/user/c9ide
+Development Log
+Initial routes
+·	Create landing page
+·	Create campground page to list all campgrounds
+Layout
+·	Add header/footer partials
+·	Add bootstrap css stylesheet
+Campgrounds
+·	Set new campground POST route
+·	Add in body parser
+·	Set up route to show form
+·	Add basic unstyled form
