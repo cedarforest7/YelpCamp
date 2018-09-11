@@ -19,4 +19,4 @@ comments on campgrounds in HTML, CSS and JavaScript with MongoDB and Mongoose
 -   Style the header
 -   Adjust the size of images and display campgrounds in grid
 -   Navbar and form
-
+### Install MongoDB
