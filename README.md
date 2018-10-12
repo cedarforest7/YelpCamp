@@ -1,5 +1,5 @@
 # YelpCamp
-YealpCamp Web APP
+YealpCamp Web App
 - a full-stack Node.js web application in which users can create/edit their campgrounds and view/post
 comments on campgrounds in HTML, CSS and JavaScript with MongoDB and Mongoose
 
