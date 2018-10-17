@@ -20,3 +20,4 @@ comments on campgrounds in HTML, CSS and JavaScript with MongoDB and Mongoose
 -   Adjust the size of images and display campgrounds in grid
 -   Navbar and form
 ### Install MongoDB
+### Interact with MongoDB using Mongoose
