@@ -15,7 +15,7 @@ comments on campgrounds in HTML, CSS and JavaScript with MongoDB and Mongoose
 -	Add in body parser
 -	Set up route to show form
 -	Add basic unstyled form
-### Styling Campgrounds
+### Style Campgrounds
 -   Style the header
 -   Adjust the size of images and display campgrounds in grid
 -   Navbar and form
